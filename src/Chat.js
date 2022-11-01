@@ -22,14 +22,15 @@ const Chat = () => {
                 <IconButton>
                   <SearchIcon/>
                 </IconButton>
-                  <IconButton>
-                    <MoreVertIcon />
-
-                  </IconButton>
+                  
                   <IconButton>
                     <AttachFileIcon/>
 
                   </IconButton>
+          <IconButton>
+            <MoreVertIcon />
+
+          </IconButton>
 
               </div>
     </div>
